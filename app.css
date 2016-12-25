@@ -19,3 +19,37 @@
 	color:#3c3c3c;
 	font-weight:normal;
 }
+
+.welcometext{
+	font-size:30px;
+}
+
+.Profilebox{
+	border:0px solid #2f2f2f;
+}
+
+.Profilebox label{
+	font-weight: normal;
+    height: 24px;
+    width: 170px;
+}
+
+.Profilebox .detailstext{
+	font-weight: normal;
+    height: 24px;
+    color: #9242f4;
+}
+
+
+
+.Profilebox span{
+	font-weight: normal;
+    height: 24px;
+    width: 170px;
+    color: #9242f4;
+}
+
+
+
+
+
