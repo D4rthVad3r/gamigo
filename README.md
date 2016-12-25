@@ -1,5 +1,5 @@
 # Gamigo Test - User login, registration, profile
-# Technology - Angular 2, node js, rest api
+# Technology - Angular 2, node js, rest api, mocking data
 
 Gamigo - Test User Registration, Login and profile 
 
@@ -50,7 +50,7 @@ d)Date format validation ('YYYY-mm-dd') on field date of birth
 
 <b>Solution Back End:</b>
 
-1- For backend data storage I have used HTML local object.
+1- For backend data storage I have used HTML local object for mocking of data 
 
 2- For reviewing Rest pattern please review below file
 
