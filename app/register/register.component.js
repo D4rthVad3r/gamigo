@@ -24,7 +24,7 @@ var RegisterComponent = (function () {
         this.loading = true;
         this.userService.create(this.model)
             .subscribe(function (data) {
-            _this.alertService.success('Registration successful', true);
+            _this.alertService.success('Registration successful. Now you may login with registered username and password', true);
             _this.router.navigate(['/login']);
         }, function (error) {
             _this.alertService.error(error);
