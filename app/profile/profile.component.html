@@ -1,0 +1,10 @@
+﻿<div class="col-md-6 col-md-offset-3">
+    <h1>Hi {{currentUser.username}}!</h1>
+
+    <h4>Your Profile details:</h4>
+    <p>Your Username : <span>{{currentUser.username}}</span></p>
+    <p>Your email : <span>{{currentUser.email}}</span></p>
+    <p>Your birthdate : <span>{{currentUser.birthdate}}</span></p>
+
+    <p><a [routerLink]="['/login']">Logout</a></p>
+</div>

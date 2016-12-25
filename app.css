@@ -1,0 +1,21 @@
+﻿a {
+    cursor: pointer;
+}
+
+.help-block {
+    font-size: 12px;
+}
+
+.gamigocontainer{
+  background-color: #FFFFFF;
+}
+
+.gamigocontainer .borderbox{
+  border: 1px solid #3c3c3c;
+}
+
+.citelabel{
+	font-size: 11px;
+	color:#3c3c3c;
+	font-weight:normal;
+}
