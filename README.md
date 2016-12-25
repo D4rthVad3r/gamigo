@@ -22,7 +22,7 @@ We don’t expect a proper database setup so mocking the data is fine as well.
 
 3- Although I have included node_modules folder.  However if any dependency missing please install it using "npm install" . Which will install all missing dependency
 
-4-Type npm start. It will start the application in the browser. Default page will login page.
+4-Type <b>npm start</b>. It will start the application in the browser. Default page will login page.
 <b>[Acceptance Criteria #2]</b>
 
 5- Clicking on Register link provided on login page will redirect the user to registration form. 
