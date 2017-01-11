@@ -1,7 +1,7 @@
-# Gamigo Test - User login, registration, profile
+# User login, registration, profile
 # Technology - Angular 2, node js, rest api, mocking data
 
-Gamigo - Test User Registration, Login and profile 
+User Registration, Login and profile 
 
 Requirement -- Acceptance criteria:
 
